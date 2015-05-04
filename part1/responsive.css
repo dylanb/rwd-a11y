@@ -73,7 +73,7 @@ div {
 
 /*  #Mobile (0-767)
 ================================================== */
-@media screen and (max-width: 30.9375em) {
+@media screen and (max-width: 47.9375em) {
 	.header {
 		line-height:3em;
 	}
