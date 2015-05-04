@@ -7,7 +7,7 @@ Requires node.
 ```
 git clone https://github.com/dylanb/rwd-a11y
 cd rwd-a11y
-npm install -g server
+npm install -g serve
 ```
 
 ## Run
