@@ -39,6 +39,7 @@ td, th {
 	padding-top:.5em;
 	padding-bottom:.5em;
 	box-sizing:border-box;
+	min-width: 3em;
 }
 
 th {
